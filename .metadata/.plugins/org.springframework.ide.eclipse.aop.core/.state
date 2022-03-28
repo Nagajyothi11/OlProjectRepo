@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="84-OLX-Masters"/>
+<aop-project name="83-OLX-Users"/>
+<aop-project name="85-OLX-Advertises"/>
+</aop-reference-model>
