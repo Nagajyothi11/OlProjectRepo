@@ -2,5 +2,7 @@
 <aop-reference-model>
 <aop-project name="84-OLX-Masters"/>
 <aop-project name="83-OLX-Users"/>
-<aop-project name="85-OLX-Advertises"/>
+<aop-project name="Olx-ApiGateway"/>
+<aop-project name="Olx-EurekaServer"/>
+<aop-project name="Olx-configserver"/>
 </aop-reference-model>

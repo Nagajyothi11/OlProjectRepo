@@ -8,4 +8,5 @@
 <fullyQualifiedTypeName name="org.apache.catalina.authenticator.SpnegoAuthenticator.AuthenticateAction"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="com.zensar.olx.db.TokenStorage"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
 </qualifiedTypeNameHistroy>
